@@ -1,0 +1,82 @@
+{
+  "base_url": "https://tongyi-mai.github.io/OpenGCUA-blog/demos/",
+  "videos": [
+    {
+      "id": "four-workflows",
+      "title": "One visa form, four workflows",
+      "file": "four-workflows.mp4",
+      "poster": "four-workflows.jpg",
+      "duration_seconds": 110.633,
+      "width": 3840,
+      "height": 2160,
+      "bytes": 40818068,
+      "sha256": "a3ef48ba3f80d6bd76c3e4c733b67b96efdce4287ee8c95299b26d6d61678935"
+    },
+    {
+      "id": "opengcua",
+      "title": "OpenGCUA",
+      "file": "opengcua.mp4",
+      "poster": "opengcua.jpg",
+      "duration_seconds": 148.0,
+      "width": 2560,
+      "height": 1410,
+      "bytes": 71191215,
+      "sha256": "4191f7f796b12bd88ca414789e64cc571a6ec8fa894ba353c7ae875c5250ad3e"
+    },
+    {
+      "id": "opengcua-prefer-gui",
+      "title": "OpenGCUA \u00b7 prefer GUI",
+      "file": "opengcua-prefer-gui.mp4",
+      "poster": "opengcua-prefer-gui.jpg",
+      "duration_seconds": 724.733,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 89035343,
+      "sha256": "2b06754dea36f0e3b8fb9f2bb9f602e900fdbb59cc62b1828bc028ec92af1875"
+    },
+    {
+      "id": "gui-batch",
+      "title": "GUI + batch",
+      "file": "gui-batch.mp4",
+      "poster": "gui-batch.jpg",
+      "duration_seconds": 3565.5,
+      "width": 1600,
+      "height": 842,
+      "bytes": 96994535,
+      "sha256": "5063f46b1fa15f583b79b61d3e15c33d67f6ff584353088dfb9c51e5a84484b6"
+    },
+    {
+      "id": "codex-desktop",
+      "title": "Codex desktop session",
+      "file": "codex-desktop.mp4",
+      "poster": "codex-desktop.jpg",
+      "duration_seconds": 1279.667,
+      "width": 1600,
+      "height": 900,
+      "bytes": 88156205,
+      "sha256": "96a67f9d4ee9bb477bae233ab4c236ec976e8fa39933b864bcc91784394cf5e6"
+    },
+    {
+      "id": "hotel-research",
+      "title": "Hotel research",
+      "file": "hotel-research.mp4",
+      "poster": "hotel-research.jpg",
+      "duration_seconds": 213.43,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 91105558,
+      "sha256": "c8ba181c61b5ff524bb8c9e22439d5e865882fc972dd26c106d96da6c708f360"
+    },
+    {
+      "id": "click-sequence",
+      "title": "Click sequence",
+      "file": "click-sequence.mp4",
+      "poster": "click-sequence.jpg",
+      "duration_seconds": 25.275,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 12385475,
+      "sha256": "813fc13110c0f5029a093b310a28d51b31262fd6e48276fed28ee62d7f26578e"
+    }
+  ]
+}
